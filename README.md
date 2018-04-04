@@ -12,3 +12,8 @@
 ### All the urls were first extracted from "expanded_url" field from tweets are re_tweet section
 ### The shorten urls were expanded using "expand_urls" function in "longurl" package
 ### The original url from the quote/status urls were extracted by web scraping (tough part) 
+
+## Files in the repo
+### latimes_script.R --> The R Script 
+### example_input.rar --> The original file is more than 1 GB so an example file is given
+### latimes_url_output.rar --> The output
